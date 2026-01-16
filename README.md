@@ -124,5 +124,7 @@ curl -X PUT http://localhost:8000/books/1
 ```
 
 ## Screenshots
-
+<img width="1920" height="1080" alt="Screenshot 2026-01-16 095702" src="https://github.com/user-attachments/assets/8fd5fea7-43aa-4000-a539-14b36af6b14d" />
+<img width="1909" height="974" alt="Screenshot 2026-01-16 100147" src="https://github.com/user-attachments/assets/bc8c2ec4-9279-4b6f-a313-88e815318777" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-16 095956" src="https://github.com/user-attachments/assets/c3587c32-acbf-4044-afbd-34a9922430a1" />
 
